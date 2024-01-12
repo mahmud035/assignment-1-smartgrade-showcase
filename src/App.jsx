@@ -1,8 +1,16 @@
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Navbar from './components/Navbar';
+import Table from './components/Table/Table';
+
 const App = () => {
   return (
-    <>
-      <h1 className="text-xl font-bold underline">Ready for assignment-1</h1>
-    </>
+    <div className="bg-[#172227] font-[Inter] text-white">
+      <Navbar />
+      <Header />
+      <Table />
+      <Footer />
+    </div>
   );
 };
 

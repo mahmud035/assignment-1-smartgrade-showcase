@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "scores": "A+",
+    "percentage": "90%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "scores": "B-",
+    "percentage": "92%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "scores": "C+",
+    "percentage": "88%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=3"
+  },
+  {
+    "id": 4,
+    "name": "Emily White",
+    "scores": "A-",
+    "percentage": "94%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=4"
+  },
+  {
+    "id": 5,
+    "name": "Mike Davis",
+    "scores": "C",
+    "percentage": "89%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=5"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Brown",
+    "scores": "B",
+    "percentage": "91%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=6"
+  },
+  {
+    "id": 7,
+    "name": "Chris Miller",
+    "scores": "A+",
+    "percentage": "87%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=7"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Wilson",
+    "scores": "A-",
+    "percentage": "93%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=8"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Lee",
+    "scores": "C",
+    "percentage": "86%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=9"
+  },
+  {
+    "id": 10,
+    "name": "Ella Anderson",
+    "scores": "B-",
+    "percentage": "95%",
+    "class": "One",
+    "avatar": "https://i.pravatar.cc/32?img=10"
+  },
+  {
+    "id": 11,
+    "name": "Alex Smith",
+    "scores": "A+",
+    "percentage": "90%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=11"
+  },
+  {
+    "id": 12,
+    "name": "Grace Johnson",
+    "scores": "B+",
+    "percentage": "92%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=12"
+  },
+  {
+    "id": 13,
+    "name": "Ryan Davis",
+    "scores": "C+",
+    "percentage": "88%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=13"
+  },
+  {
+    "id": 14,
+    "name": "Emma White",
+    "scores": "A-",
+    "percentage": "94%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=14"
+  },
+  {
+    "id": 15,
+    "name": "Jordan Brown",
+    "scores": "C",
+    "percentage": "89%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=15"
+  },
+  {
+    "id": 16,
+    "name": "Ava Wilson",
+    "scores": "B",
+    "percentage": "91%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=16"
+  },
+  {
+    "id": 17,
+    "name": "Mason Miller",
+    "scores": "A+",
+    "percentage": "87%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=17"
+  },
+  {
+    "id": 18,
+    "name": "Chloe Anderson",
+    "scores": "A-",
+    "percentage": "93%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=18"
+  },
+  {
+    "id": 19,
+    "name": "Logan Lee",
+    "scores": "C",
+    "percentage": "86%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=19"
+  },
+  {
+    "id": 20,
+    "name": "Lily Johnson",
+    "scores": "B+",
+    "percentage": "95%",
+    "class": "Two",
+    "avatar": "https://i.pravatar.cc/32?img=20"
+  },
+  {
+    "id": 21,
+    "name": "Taylor Smith",
+    "scores": "A+",
+    "percentage": "90%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=21"
+  },
+  {
+    "id": 22,
+    "name": "Ethan Davis",
+    "scores": "B-",
+    "percentage": "92%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=22"
+  },
+  {
+    "id": 23,
+    "name": "Madison White",
+    "scores": "C+",
+    "percentage": "88%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=23"
+  },
+  {
+    "id": 24,
+    "name": "Aiden Brown",
+    "scores": "A-",
+    "percentage": "94%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=24"
+  },
+  {
+    "id": 25,
+    "name": "Aria Wilson",
+    "scores": "C",
+    "percentage": "89%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=25"
+  },
+  {
+    "id": 26,
+    "name": "Carter Miller",
+    "scores": "B",
+    "percentage": "91%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=26"
+  },
+  {
+    "id": 27,
+    "name": "Sofia Anderson",
+    "scores": "A+",
+    "percentage": "87%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=27"
+  },
+  {
+    "id": 28,
+    "name": "Jack Anderson",
+    "scores": "A-",
+    "percentage": "93%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=28"
+  },
+  {
+    "id": 29,
+    "name": "Emma Lee",
+    "scores": "C",
+    "percentage": "86%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=29"
+  },
+  {
+    "id": 30,
+    "name": "Noah Johnson",
+    "scores": "B+",
+    "percentage": "95%",
+    "class": "Three",
+    "avatar": "https://i.pravatar.cc/32?img=30"
+  }
+]
